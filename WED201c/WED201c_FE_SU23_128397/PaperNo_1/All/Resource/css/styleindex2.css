@@ -1,0 +1,68 @@
+/* container fluid*/
+.footer {
+    margin-top: 30px;
+    background-color: #0ebfc4;
+    text-align: center;
+    padding: 10px;
+}
+#ft p{
+    text-align: center;
+}
+/*content header*/
+.logo img{
+    width: 30%;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.search{
+   margin-top: 8%;
+}
+.feedback{
+    margin-top: 7%;
+}
+
+/*menu*/
+.button{
+    /* margin-left: 30%; */
+    padding-left: 500px;
+}
+/*description*/
+h1{
+    color: #0ec0c3;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+p{
+    text-align: justify;
+}
+
+/*container*/
+.info {
+    color: rgb(231, 155, 16);
+}
+#detail-1{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.ab160cc img{
+    width: 70%;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.vision img {
+    margin-left: 40px;
+    width: 50%;
+}
+.vario160 img {
+    width: 55%;
+    margin-left: 22%;
+}
+.vario160-detail p {
+    padding-right: 100px;
+}
+
+.imgnhot {
+    padding-left: 70px;
+}
